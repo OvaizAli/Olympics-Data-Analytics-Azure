@@ -35,13 +35,5 @@ The dataset used in this project is sourced from [Kaggle: 2021 Olympics in Tokyo
 2. Use Azure Databricks to transform the ingested data.
 3. Connect the transformed data to Azure Synapse for analytical queries.
 
-## Screenshots
-
-1. **Azure Data Factory Copy Data Tool**:
-   ![ADF](ADF.png)
-
-2. **Azure Data Lake Storage**:
-   ![DataLakeStorage](DataLakeStorage.png)
-
-3. **Azure Synapse Analytics**:
-   ![Synapse](Synapse.png)
+## Architecture Diagram
+  ![Architecture Diagram](Azure-Olympics.png)
